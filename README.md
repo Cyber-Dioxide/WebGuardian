@@ -24,7 +24,7 @@ WebGuardian is a Python-based vulnerability detection tool for web applications.
 # Services:
 If you want me to do your website security testing, hire me.
 * Instagram: @coding_memz
-* Telegram: ![here](https://t.me/CyberDioxide)
+* Telegram: ![here](https://t.me/coding_memz)
 - For custom hacking tools contact me.
 
 # Help
