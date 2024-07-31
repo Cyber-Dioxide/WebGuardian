@@ -28,4 +28,4 @@ If you want me to do your website security testing, hire me.
 - For custom hacking tools contact me.
 
 # Help
-For any help/support i'm mostly active on Istagram @coding_memz
+For any help/support i'm mostly active on Istagram @coding_memz, [Telegram](https://www.cyberdioxide.com/p/contact.html)
